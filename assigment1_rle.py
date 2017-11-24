@@ -1,5 +1,5 @@
 # rle assignment
-# by lola
+# by rsofiac
 # for patrick hebron's learning machines class
 # at nyu itp
 # fall 2017
@@ -12,13 +12,10 @@ def coding(input):
 
     # initialize output
     output = ''
-
     # initialize counter of same character
     counter = 0
-
     # count the characters
     countChar = 0
-
     # initialize current character
     currentChar = input[0]
 
@@ -48,5 +45,7 @@ def coding(input):
     # print output
     print output
 
-def decoding(input):
-    print "TODO"
+#still need to find how to decode this one
+
+
+coding ("jsdgkkkasdiii")
